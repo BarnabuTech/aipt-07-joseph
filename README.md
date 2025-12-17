@@ -37,7 +37,9 @@ To run this project, you need:
 Verify Go installation:
 
 \`\`\`bash
+
 go version
+
 \`\`\`
 
 ---
@@ -53,14 +55,19 @@ Download and install Go from the official website:
 ### Step 2: Clone the Repository
 
 \`\`\`bash
+
 git clone <https://github.com/BarnabuTech/aipt-07-joseph.git>
+
 cd main.go
+
 \`\`\`
 
 ### Step 3: Run the Application
 
 \`\`\`bash
+
 go run main.go
+
 \`\`\`
 
 ---
